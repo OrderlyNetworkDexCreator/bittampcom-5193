@@ -22,7 +22,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://t.me/bittamp",
   "VITE_DISCORD_URL": "",
-  "VITE_TWITTER_URL": "",
+  "VITE_TWITTER_URL": "https://x.com/bittampdotcom",
   "VITE_SEO_SITE_NAME": "bittamp.com",
   "VITE_SEO_SITE_DESCRIPTION": "Trade perpetuals on BitTamp, the top DEX with low fees, deep liquidity, multichain support, high leverage.",
   "VITE_SEO_SITE_URL": "https://bittamp.com",
